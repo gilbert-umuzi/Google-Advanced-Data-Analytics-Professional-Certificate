@@ -6,7 +6,7 @@ The entire program has seven courses:
 
 **1. Foundations of Data Science** – This course introduces the fundamentals of data science, how different data professionals operate in the workplace, and how these roles contribute to an organization’s vision of their future. The data science workflow PACE (plan, analyze, construct, enhance) is introduced to help you better understand how to navigate the technical and workplace expectations of this career. 
 
-**2. Getting Started with Python **– In this course, you will get started with Python for data analytics by developing an understanding of Python syntax, logic, data types, objects, and object-oriented programming. 
+**2. Getting Started with Python ** – In this course, you will get started with Python for data analytics by developing an understanding of Python syntax, logic, data types, objects, and object-oriented programming. 
 
 **3. Go Beyond the Numbers: Translate Data into Insights** – Learn the fundamentals of data cleaning and visualizations and how to uncover meaningful stories in the data.
 
