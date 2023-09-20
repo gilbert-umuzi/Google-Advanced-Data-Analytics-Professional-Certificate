@@ -2,19 +2,19 @@
 
 The Google Advanced Data Analytics Certificate contains information on how to use machine learning, predictive modeling, and experimental design to collect and analyze large amounts of data, and prepare for jobs like Senior Data Analyst and Junior Data Scientist.
 
-Get professional training designed by Google and take the next step in your career with advanced data analytics skills. There are over 144,000 open jobs in advanced data analytics and the median salary for entry-level roles is $118,000.¹ 
+The entire program has seven courses: 
 
-Advanced data professionals are responsible for collecting, analyzing, and interpreting extremely large amounts of data. These jobs require manipulating large data sets and using advanced analytics including machine learning, predictive modeling, and experimental design. 
+**1. Foundations of Data Science** – This course introduces the fundamentals of data science, how different data professionals operate in the workplace, and how these roles contribute to an organization’s vision of their future. The data science workflow PACE (plan, analyze, construct, enhance) is introduced to help you better understand how to navigate the technical and workplace expectations of this career. 
 
-This certificate builds on your data analytics skills and experience to take your career to the next level. It's designed for graduates of the 
-Google Data Analytics Certificate
- or people with equivalent data analytics experience. Expand your knowledge with practical, hands-on projects, featuring Jupyter Notebook, Python, and Tableau.
+**2. Getting Started with Python **– In this course, you will get started with Python for data analytics by developing an understanding of Python syntax, logic, data types, objects, and object-oriented programming. 
 
-After seven courses, you’ll be prepared for jobs like senior data analyst, junior data scientist, data science analyst, and more. At under 10 hours a week, the certificate program can be completed in less than six months. Upon completion, you can apply for jobs with Google and over 150 U.S. employers, including Deloitte, Target, and Verizon.
+**3. Go Beyond the Numbers: Translate Data into Insights** – Learn the fundamentals of data cleaning and visualizations and how to uncover meaningful stories in the data.
 
-75% of certificate graduates report a positive career outcome (e.g., new job, promo or raise) within six months of completion2
+**4. The Power of Statistics** – Learn descriptive and inferential statistics, basic probability and probability distributions, sampling, confidence intervals, and hypothesis testing.
 
-¹Lightcast™ US Job Postings (Last 12 Months: 1/1/2022 – 12/31/2022) 
+**5. Regression Analysis: Simplifying Complex Data Relationships** – In this course, you will apply your knowledge to modeling variable relationships, with a focus on linear regression, analysis of variance (ANOVA), and logistic regression. From model assumptions to evaluation and interpretation, you will understand relationships in datasets based on PACE. (This is the course you just completed. Well done!)
 
-Based on program graduate survey, United States 2022
+**6. The Nuts and Bolts of Machine Learning** – This course covers the fundamentals of supervised machine learning, and introduces learners to unsupervised learning through K-means and other clustering models. Learners will use different classification techniques such as decision trees, random forests, and gradient boosting to approach a realistic business problem. 
+
+**7. Google Advanced Data Analytics Capstone** – This course presents the capstone project for the Advanced Data Analytics certificate, which incorporates key concepts from each of the six preceding courses. The capstone project will yield data-driven suggestions including visualizations and models to provide insight for the business problem.  
 
